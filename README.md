@@ -1,2 +1,2 @@
 # DSC
-Disciplina de Desenvolvimento Corporativos
+Desenvolvimento de Sistemas Corporativos
