@@ -35,5 +35,4 @@ public class Disciplina {
 		this.nome = nome;
 	}
 	
-	
 }
