@@ -18,3 +18,6 @@ API desenvolvida para o projeto final da disciplina de DESENVOLVIMENTO DE SISTEM
 ## 🚀 Tecnologias utilizadas
 
 - [JAVA]
+- [SPRING]
+- [JWT]
+- [POSTMAN]
