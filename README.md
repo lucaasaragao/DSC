@@ -7,3 +7,14 @@ Desenvolvimento de Sistemas Corporativos
 
 ### Projeto de final da disciplina 
 
+### Api_Projeto_Crdb
+
+## 📑 Sobre
+
+API desenvolvida para o projeto final da disciplina de DESENVOLVIMENTO DE SISTEMA CORPORATIVO. Api de disciplinas com CRUD de usuario, CRUD de disiciplina CRUD de comentarios autenticacao via Jwt, padrao MVC e indetegracao via DTO
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- [JAVA]
